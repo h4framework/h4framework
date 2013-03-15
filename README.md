@@ -1,0 +1,4 @@
+h4framework
+===========
+
+Its developed for clients and developer. The user gets the ease of maintenance and the developer the easy of developing. What makes it easy? Well first off all it gives the clients the comfort of using a content management system that is tailored specific to their needs. For the developer it offers a structured way of workflow and the comfort of reusing themes or parts from a theme for new projects. An other big plus is that this framework was builder for hosting more then one website... So for providers and publishers it gives the ease of maintaining the clients their websites with a single system.
